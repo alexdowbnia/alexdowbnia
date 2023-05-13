@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1>Hi, I'm Alex Dowbnia, an <a href="https://www.linkedin.com/in/alex-dowbnia/">IT Technician</a>☺</h1>
+<h1>Hi there 👋, I'm Alex Dowbnia, an <a href="https://www.linkedin.com/in/alex-dowbnia/">IT Technician</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
